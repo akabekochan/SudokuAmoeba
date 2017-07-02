@@ -1,0 +1,13 @@
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\bin\Release\SudokuAmoeba.exe
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\bin\Release\SudokuAmoeba.pdb
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Release\ResolveAssemblyReference.cache
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Release\MainWindow.baml
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Release\MainWindow.g.cs
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Release\App.g.cs
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Release\SudokuAmoeba_MarkupCompile.cache
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Release\SudokuAmoeba.g.resources
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Release\SudokuAmoeba.Properties.Resources.resources
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Release\GenerateResource.read.1.tlog
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Release\GenerateResource.write.1.tlog
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Release\SudokuAmoeba.exe
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Release\SudokuAmoeba.pdb

@@ -1,0 +1,62 @@
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\bin\Debug\SudokuAmoeba.exe
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\bin\Debug\SudokuAmoeba.pdb
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\MainWindow.baml
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\MainWindow.g.cs
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\App.g.cs
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoeba_MarkupCompile.cache
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoeba.g.resources
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoeba.Properties.Resources.resources
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoeba.exe
+E:\New Sudoku\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoeba.pdb
+E:\FSKTM\FSKTM SEM7\Academic Project II\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FSKTM\FSKTM SEM7\Academic Project II\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\MainWindow.baml
+E:\FSKTM\FSKTM SEM7\Academic Project II\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\MainWindow.g.cs
+E:\FSKTM\FSKTM SEM7\Academic Project II\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\App.g.cs
+E:\FSKTM\FSKTM SEM7\Academic Project II\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\FSKTM\FSKTM SEM7\Academic Project II\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\FSKTM\FSKTM SEM7\Academic Project II\Sudoku Amoebae\SudokuAmoeba\bin\Debug\SudokuAmoebae.exe
+E:\FSKTM\FSKTM SEM7\Academic Project II\Sudoku Amoebae\SudokuAmoeba\bin\Debug\SudokuAmoebae.pdb
+E:\FSKTM\FSKTM SEM7\Academic Project II\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae_MarkupCompile.cache
+E:\FSKTM\FSKTM SEM7\Academic Project II\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.g.resources
+E:\FSKTM\FSKTM SEM7\Academic Project II\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.Properties.Resources.resources
+E:\FSKTM\FSKTM SEM7\Academic Project II\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.exe
+E:\FSKTM\FSKTM SEM7\Academic Project II\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.pdb
+D:\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.csprojResolveAssemblyReference.cache
+D:\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\MainWindow.baml
+D:\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\MainWindow.g.cs
+D:\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\App.g.cs
+D:\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae_MarkupCompile.cache
+D:\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.g.resources
+D:\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.Properties.Resources.resources
+D:\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.csproj.GenerateResource.Cache
+D:\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.exe
+D:\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.pdb
+D:\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\bin\Debug\SudokuAmoebae.exe
+D:\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\bin\Debug\SudokuAmoebae.pdb
+F:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.csprojResolveAssemblyReference.cache
+F:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\MainWindow.baml
+F:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\MainWindow.g.cs
+F:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\App.g.cs
+F:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae_MarkupCompile.cache
+F:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.g.resources
+F:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.Properties.Resources.resources
+F:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.csproj.GenerateResource.Cache
+F:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.exe
+F:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.pdb
+F:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\bin\Debug\SudokuAmoebae.exe
+F:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\bin\Debug\SudokuAmoebae.pdb
+E:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\bin\Debug\SudokuAmoebae.exe
+E:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\bin\Debug\SudokuAmoebae.pdb
+E:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.csprojResolveAssemblyReference.cache
+E:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\MainWindow.baml
+E:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\MainWindow.g.cs
+E:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\App.g.cs
+E:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae_MarkupCompile.cache
+E:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.g.resources
+E:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.Properties.Resources.resources
+E:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.csproj.GenerateResource.Cache
+E:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.exe
+E:\UM\Semester 7\Akiko\WAES 3182 - Academic Project for Artificial Intelligence II\report\Sudoku Amoebae\SudokuAmoeba\obj\x86\Debug\SudokuAmoebae.pdb

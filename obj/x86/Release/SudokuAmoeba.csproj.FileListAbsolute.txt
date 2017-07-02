@@ -1,0 +1,52 @@
+C:\Users\User_2011\Desktop\SudokuAmoeba\SudokuAmoeba\bin\Release\SudokuAmoeba.exe
+C:\Users\User_2011\Desktop\SudokuAmoeba\SudokuAmoeba\bin\Release\SudokuAmoeba.pdb
+C:\Users\User_2011\Desktop\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\User_2011\Desktop\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\MainWindow.baml
+C:\Users\User_2011\Desktop\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\MainWindow.g.cs
+C:\Users\User_2011\Desktop\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\App.g.cs
+C:\Users\User_2011\Desktop\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\SudokuAmoeba_MarkupCompile.cache
+C:\Users\User_2011\Desktop\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\SudokuAmoeba.g.resources
+C:\Users\User_2011\Desktop\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\SudokuAmoeba.Properties.Resources.resources
+C:\Users\User_2011\Desktop\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\User_2011\Desktop\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\User_2011\Desktop\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\SudokuAmoeba.exe
+C:\Users\User_2011\Desktop\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\SudokuAmoeba.pdb
+E:\New Sudoku\SudokuAmoeba\SudokuAmoeba\bin\Release\SudokuAmoeba.exe
+E:\New Sudoku\SudokuAmoeba\SudokuAmoeba\bin\Release\SudokuAmoeba.pdb
+E:\New Sudoku\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\ResolveAssemblyReference.cache
+E:\New Sudoku\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\MainWindow.baml
+E:\New Sudoku\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\MainWindow.g.cs
+E:\New Sudoku\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\App.g.cs
+E:\New Sudoku\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\SudokuAmoeba_MarkupCompile.cache
+E:\New Sudoku\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\SudokuAmoeba.g.resources
+E:\New Sudoku\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\SudokuAmoeba.Properties.Resources.resources
+E:\New Sudoku\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\GenerateResource.read.1.tlog
+E:\New Sudoku\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\GenerateResource.write.1.tlog
+E:\New Sudoku\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\SudokuAmoeba.exe
+E:\New Sudoku\SudokuAmoeba\SudokuAmoeba\obj\x86\Release\SudokuAmoeba.pdb
+E:\New Sudoku\SudokuAmoeba - Copy\SudokuAmoeba\bin\Release\SudokuAmoeba.exe
+E:\New Sudoku\SudokuAmoeba - Copy\SudokuAmoeba\bin\Release\SudokuAmoeba.pdb
+E:\New Sudoku\SudokuAmoeba - Copy\SudokuAmoeba\obj\x86\Release\ResolveAssemblyReference.cache
+E:\New Sudoku\SudokuAmoeba - Copy\SudokuAmoeba\obj\x86\Release\MainWindow.baml
+E:\New Sudoku\SudokuAmoeba - Copy\SudokuAmoeba\obj\x86\Release\MainWindow.g.cs
+E:\New Sudoku\SudokuAmoeba - Copy\SudokuAmoeba\obj\x86\Release\App.g.cs
+E:\New Sudoku\SudokuAmoeba - Copy\SudokuAmoeba\obj\x86\Release\SudokuAmoeba_MarkupCompile.cache
+E:\New Sudoku\SudokuAmoeba - Copy\SudokuAmoeba\obj\x86\Release\SudokuAmoeba.g.resources
+E:\New Sudoku\SudokuAmoeba - Copy\SudokuAmoeba\obj\x86\Release\SudokuAmoeba.Properties.Resources.resources
+E:\New Sudoku\SudokuAmoeba - Copy\SudokuAmoeba\obj\x86\Release\GenerateResource.read.1.tlog
+E:\New Sudoku\SudokuAmoeba - Copy\SudokuAmoeba\obj\x86\Release\GenerateResource.write.1.tlog
+E:\New Sudoku\SudokuAmoeba - Copy\SudokuAmoeba\obj\x86\Release\SudokuAmoeba.exe
+E:\New Sudoku\SudokuAmoeba - Copy\SudokuAmoeba\obj\x86\Release\SudokuAmoeba.pdb
+E:\New Sudoku\SudokuAmoebaLatest\SudokuAmoeba\bin\Release\SudokuAmoeba.exe
+E:\New Sudoku\SudokuAmoebaLatest\SudokuAmoeba\bin\Release\SudokuAmoeba.pdb
+E:\New Sudoku\SudokuAmoebaLatest\SudokuAmoeba\obj\x86\Release\ResolveAssemblyReference.cache
+E:\New Sudoku\SudokuAmoebaLatest\SudokuAmoeba\obj\x86\Release\MainWindow.baml
+E:\New Sudoku\SudokuAmoebaLatest\SudokuAmoeba\obj\x86\Release\MainWindow.g.cs
+E:\New Sudoku\SudokuAmoebaLatest\SudokuAmoeba\obj\x86\Release\App.g.cs
+E:\New Sudoku\SudokuAmoebaLatest\SudokuAmoeba\obj\x86\Release\SudokuAmoeba_MarkupCompile.cache
+E:\New Sudoku\SudokuAmoebaLatest\SudokuAmoeba\obj\x86\Release\SudokuAmoeba.g.resources
+E:\New Sudoku\SudokuAmoebaLatest\SudokuAmoeba\obj\x86\Release\SudokuAmoeba.Properties.Resources.resources
+E:\New Sudoku\SudokuAmoebaLatest\SudokuAmoeba\obj\x86\Release\GenerateResource.read.1.tlog
+E:\New Sudoku\SudokuAmoebaLatest\SudokuAmoeba\obj\x86\Release\GenerateResource.write.1.tlog
+E:\New Sudoku\SudokuAmoebaLatest\SudokuAmoeba\obj\x86\Release\SudokuAmoeba.exe
+E:\New Sudoku\SudokuAmoebaLatest\SudokuAmoeba\obj\x86\Release\SudokuAmoeba.pdb
